@@ -1,3 +1,4 @@
+import './ui/styles/main.css';
 import Tooltip from './ui/tooltip';
 
 // create tooltip
