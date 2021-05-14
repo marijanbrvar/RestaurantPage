@@ -10,7 +10,7 @@ export default function delivery() {
   heading.classList.add('content');
   tagline.classList.add('tagline');
   tagline.innerText = 'Delivery page';
-  subhead.innerText = 'We can delivery anyhere you wish';
+  subhead.innerText = 'We can deliver anywhere you wish';
   image.setAttribute('src', Delivert);
   heading.appendChild(tagline);
   heading.appendChild(subhead);
