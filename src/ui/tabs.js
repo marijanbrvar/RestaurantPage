@@ -15,7 +15,7 @@ export default function tabs() {
     const li = document.createElement('li');
     li.innerText = item;
     li.classList.add('trigger');
-    li.setAttribute('data-target', item.toLowerCase());
+    li.setAttribute('data-target', `#${item.toLowerCase()}`);
     list.appendChild(li);
   });
   document.querySelector('li').classList.add('active');
