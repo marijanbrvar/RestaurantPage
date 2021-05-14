@@ -1,6 +1,6 @@
 import './styles/tab.css';
 
-const itemsList = ['Home', 'About', 'Contact', 'Delivery'];
+const itemsList = ['Menu', 'Delivery', 'About', 'Contact'];
 
 export default function tabs() {
   const container = document.querySelector('.container');
