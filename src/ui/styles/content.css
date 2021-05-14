@@ -1,0 +1,26 @@
+.content {
+  padding: 2em;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.content h2 {
+  font-size: 4rem;
+  color: #000;
+  margin: 1em 0;
+}
+.content p {
+  margin-top: 1em;
+  max-width: 75%;
+  line-height: 1.2em;
+  font-size: 1em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.content img {
+  margin: 1em 0;
+  width: 100%;
+}
+
+.menu-item p {
+  margin: 0 0 1em 0;
+}
