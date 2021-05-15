@@ -1,46 +1,34 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Restaurant Page web presentation
 
-> One paragraph statement about the project.
+> This is the simple project for restaurant page build by using the Single Page Application (SPA) approach with vanilla JavaScript.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
-
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Java Script
+
+## Local development prerequisite
+
+- Node and npm
+
+## Setting up on your machine
+
+Clone this repository to your computer by executing the command git clone git@github.com:marijanbrvar/RestaurantPage.git && cd RestaurantPage
+
+Run `npm install` and then use script `npm run serve` to start the local server for development.
+
+Open locally cloned code in your favorite code editor.
+
+Feel free to adapt, improve or change everything.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://marijanbrvar.github.io/RestaurantPage/)
 
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-## Authors
+## Author
 
 👤 MARIJAN BRVAR
 
@@ -54,18 +42,12 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/marijanbrvar/RestaurantPage/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](https://github.com/marijanbrvar/RestaurantPage/blob/feature/LICENSE) licensed.
